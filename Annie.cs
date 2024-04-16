@@ -1,5 +1,5 @@
 
-class Annie
+internal class Annie
 {
   string x;
   string y; 
